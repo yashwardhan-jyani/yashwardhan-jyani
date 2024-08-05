@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **django**
 
-- 💬 Ask me about **React, Node.js,  Javascript, python**
+- 💬 Ask me about **React, Node.js, Javascript**
 
 - 📫 How to reach me **jyanimanav@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yashwardhan-jyani-5aa007223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashwardhan-jyani-5aa007223" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nishant2210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishant2210" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/yashwardhan_jyani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nishant2210" height="30" width="40" /></a>
 </p>
 <br/>
 <h3  align="left">Languages and Tools:</h3>
